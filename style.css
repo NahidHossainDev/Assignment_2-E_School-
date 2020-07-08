@@ -1,0 +1,64 @@
+nav img{
+    width: 200px;
+}
+nav{
+    background-color: #F0FFF0;
+}
+.btn{
+    border-radius: 50px;
+    padding: 5px 20px;
+}
+.cover{
+    background-color:#F0FFF0;
+}
+.cover .container{
+    max-width: 1200px;
+    height: 570px;
+}
+.cover h1{
+    font-weight: 700;
+}
+section{
+    margin-bottom: 70px;
+}
+.feature{
+    height: 270px;
+    width: 270px;
+    background-color: #F0FFF0;
+}
+.feature img{
+    width: 70px;
+    margin-bottom: 30px;
+}
+ h2{
+    margin-top:100px;
+}
+.card{
+    margin-top: 50px;
+    box-shadow: 0 10px 20px lightgray;
+}
+.testimonial img{
+    height: 120px;
+    width: 120px;
+}
+.testimonial .row{
+    margin:100px
+
+}
+.bottom{
+    background: #282531;
+    color:white;
+    padding: 100px;
+    margin-bottom: 0;
+}
+.links{
+    margin-left: 10px;
+}
+.links a{
+    color:white
+}
+footer{
+    background: #282531;
+    color:white;
+    padding: 10px;
+}
